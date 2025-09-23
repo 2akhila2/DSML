@@ -1,0 +1,13 @@
+import numpy as np
+array1=np.array([3,6,4,2])
+array2=np.array([8,6,4,1])
+array3=np.add(array1,array2)
+print(array1)
+print(array2)
+print("addition is",array3)
+array4=np.array([3,6,4,2])
+array5=np.array([8,6,4,1])
+array6=np.multiply(array4,array5)
+print(array4)
+print(array5)
+print("sum is",array6)
